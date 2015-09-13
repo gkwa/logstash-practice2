@@ -1,0 +1,14 @@
+/LICENSE
+/README.md
+/bin/
+/lib/
+/locales/
+/logstash-1.4.5/
+/pathed.exe
+/patterns/
+/spec/
+/vendor/
+/access_log_Jul95
+/NASA_access_log_Jul95.gz
+/data/
+
